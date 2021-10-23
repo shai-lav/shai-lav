@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shailav
 - 👀 I’m interested in Software development and Data Analysis
 - 🌱 I’m currently learning Full Stack Development
-- 💞️ I’m looking to collaborate on Projects and Modules or Development 
+- 💞️ I’m looking to collaborate on Projects and Development 
 - 📫 How to reach me rsan1423@gmail.com or 9709827770
 
 <!---
